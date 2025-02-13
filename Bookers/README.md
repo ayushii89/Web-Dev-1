@@ -131,7 +131,7 @@ We welcome contributions! To contribute:
    git push origin feature/new-feature  
    ```
 5. Open a pull request. 🚀
-////
+
 ---
 
 ## 📜 License
